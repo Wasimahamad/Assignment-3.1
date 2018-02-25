@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.yash.vibgyor.MainActivity">
+
+
+
+
+        <RelativeLayout
+            android:layout_width="384dp"
+            android:layout_height="72dp"
+            android:background="#D50000"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="391dp"
+            android:layout_height="73dp"
+            android:background="#FF6D00"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="73dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="395dp"
+            android:layout_height="82dp"
+            android:background="#FFD600"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="146dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="382dp"
+            android:layout_height="81dp"
+            android:background="#76FF03"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="227dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="384dp"
+            android:layout_height="73dp"
+            android:background="#2962FF"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="304dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="399dp"
+            android:layout_height="67dp"
+            android:background="#673AB7"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="-1dp"
+            tools:layout_editor_absoluteY="377dp">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="389dp"
+            android:layout_height="75dp"
+            android:background="#AA00FF"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="445dp">
+
+        </RelativeLayout>
+    </LinearLayout>
